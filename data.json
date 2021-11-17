@@ -1,0 +1,1253 @@
+[{
+    "asteroid": "terra",
+    "seed": "SNDST-A-16000-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_co2,hot_hydrogen,hot_water,oil_drip,slush_water,hot_steam,methane,hot_co2,slush_water,hot_water,hot_po2,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16001-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,liquid_co2,hot_co2,oil_drip,methane,steam,molten_gold,slush_salt_water,small_volcano,salt_water,filthy_water,hot_water,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16002-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,methane,hot_po2,big_volcano,small_volcano,hot_water,big_volcano,methane,big_volcano,small_volcano,molten_gold,slush_water,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16003-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_steam,chlorine_gas,liquid_co2,small_volcano,big_volcano,chlorine_gas,methane,liquid_co2,hot_po2,liquid_co2,hot_po2,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16004-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,hot_water,big_volcano,filthy_water,small_volcano,molten_iron,molten_copper,chlorine_gas,slimy_po2,small_volcano,big_volcano,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16005-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_salt_water,small_volcano,big_volcano,salt_water,hot_co2,hot_hydrogen,chlorine_gas,filthy_water,chlorine_gas,big_volcano,chlorine_gas,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16006-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,liquid_co2,hot_steam,molten_copper,liquid_co2,oil_drip,slimy_po2,molten_iron,methane,hot_po2,hot_water,molten_iron,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16007-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,chlorine_gas,salt_water,molten_iron,oil_drip,slush_water,chlorine_gas,big_volcano,molten_copper,hot_water,slush_water,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16008-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_gold,chlorine_gas,small_volcano,hot_steam,small_volcano,molten_copper,hot_hydrogen,hot_po2,hot_water,big_volcano,slush_water,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16009-0",
+    "list": "314.1841,steam,methane,steam,methane,salt_water,oil_drip,molten_iron,chlorine_gas,methane,chlorine_gas,filthy_water,slimy_po2,chlorine_gas,salt_water,hot_po2,steam,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16010-0",
+    "list": "341.5691,steam,chlorine_gas,steam,methane,salt_water,methane,hot_hydrogen,hot_po2,hot_steam,hot_steam,hot_water,slush_water,hot_steam,slush_salt_water,big_volcano,liquid_co2,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16011-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,slush_salt_water,hot_hydrogen,molten_copper,small_volcano,small_volcano,chlorine_gas,hot_steam,molten_iron,slush_salt_water,oil_drip,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16012-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,liquid_co2,hot_co2,chlorine_gas,molten_copper,oil_drip,liquid_co2,big_volcano,slush_water,slush_salt_water,hot_po2,hot_water,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16013-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_co2,chlorine_gas,slush_water,methane,hot_po2,salt_water,slimy_po2,chlorine_gas,slush_salt_water,slush_water,slush_water,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16014-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,liquid_co2,slimy_po2,slush_salt_water,small_volcano,small_volcano,hot_co2,chlorine_gas,chlorine_gas,filthy_water,molten_iron,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16015-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,oil_drip,oil_drip,steam,molten_copper,chlorine_gas,chlorine_gas,molten_gold,chlorine_gas,big_volcano,hot_hydrogen,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16016-0",
+    "list": "steam,methane,steam,methane,salt_water,slimy_po2,oil_drip,salt_water,slush_salt_water,hot_water,methane,molten_gold,slush_water,filthy_water,hot_po2,chlorine_gas,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16017-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,molten_gold,oil_drip,small_volcano,hot_co2,liquid_co2,molten_gold,big_volcano,salt_water,oil_drip,big_volcano,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16018-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,hot_steam,hot_co2,oil_drip,hot_water,molten_iron,slush_salt_water,hot_co2,big_volcano,liquid_co2,hot_po2,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16019-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,liquid_co2,slimy_po2,molten_iron,slush_water,molten_iron,molten_iron,slush_salt_water,methane,hot_co2,small_volcano,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16020-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,molten_gold,filthy_water,hot_po2,salt_water,big_volcano,slimy_po2,molten_iron,hot_co2,steam,hot_co2,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16021-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,salt_water,hot_water,hot_steam,salt_water,hot_po2,hot_water,molten_copper,slimy_po2,small_volcano,hot_water,molten_copper,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16022-0",
+    "list": "steam,methane,steam,methane,salt_water,methane,molten_iron,slush_water,small_volcano,slimy_po2,hot_po2,methane,hot_water,liquid_co2,filthy_water,chlorine_gas,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16023-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,salt_water,slush_salt_water,molten_copper,hot_hydrogen,oil_drip,big_volcano,slush_salt_water,hot_steam,hot_po2,small_volcano,salt_water,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16024-0",
+    "list": "1968,steam,methane,steam,methane,salt_water,filthy_water,molten_copper,hot_steam,molten_gold,salt_water,methane,liquid_co2,liquid_co2,hot_hydrogen,slush_water,slush_salt_water,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16025-0",
+    "list": "0673,steam,methane,steam,methane,salt_water,hot_steam,molten_iron,slimy_po2,hot_steam,oil_drip,hot_water,molten_gold,hot_water,hot_po2,hot_water,hot_water,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16026-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_salt_water,hot_steam,hot_water,salt_water,small_volcano,molten_copper,molten_iron,salt_water,salt_water,hot_steam,hot_co2,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16027-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,big_volcano,hot_steam,oil_drip,slush_water,hot_water,hot_steam,hot_co2,molten_iron,molten_iron,slimy_po2,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16028-0",
+    "list": "steam,methane,steam,methane,salt_water,small_volcano,molten_gold,small_volcano,salt_water,hot_po2,molten_iron,slimy_po2,hot_water,methane,small_volcano,chlorine_gas,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16029-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_co2,molten_gold,filthy_water,filthy_water,molten_iron,slush_water,hot_steam,chlorine_gas,hot_steam,molten_copper,oil_drip,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16030-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,hot_hydrogen,slush_salt_water,molten_gold,chlorine_gas,hot_co2,slimy_po2,hot_steam,molten_gold,liquid_co2,hot_water,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16031-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,methane,hot_po2,hot_water,liquid_co2,small_volcano,small_volcano,methane,methane,small_volcano,hot_steam,steam,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16032-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,molten_copper,methane,hot_co2,small_volcano,hot_po2,hot_hydrogen,salt_water,salt_water,molten_gold,salt_water,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16033-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_hydrogen,hot_co2,slush_salt_water,oil_drip,chlorine_gas,hot_steam,slimy_po2,small_volcano,hot_co2,steam,hot_steam,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16034-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_iron,molten_gold,salt_water,steam,slimy_po2,slimy_po2,molten_gold,filthy_water,steam,methane,small_volcano,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16035-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,chlorine_gas,molten_gold,slimy_po2,steam,hot_co2,small_volcano,salt_water,small_volcano,slimy_po2,hot_po2,hot_po2,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16036-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,methane,hot_steam,filthy_water,hot_co2,hot_po2,slush_water,slimy_po2,molten_copper,hot_po2,filthy_water,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16037-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_hydrogen,molten_iron,molten_copper,filthy_water,hot_co2,molten_copper,chlorine_gas,hot_steam,steam,hot_hydrogen,molten_copper,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16038-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_gold,hot_po2,molten_gold,liquid_co2,oil_drip,liquid_co2,liquid_co2,methane,molten_iron,slush_salt_water,molten_copper,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16039-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,small_volcano,liquid_co2,molten_copper,steam,small_volcano,big_volcano,hot_water,liquid_co2,hot_water,molten_copper,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16040-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,small_volcano,slimy_po2,molten_iron,steam,oil_drip,molten_gold,liquid_co2,big_volcano,big_volcano,molten_iron,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16041-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,methane,slush_salt_water,hot_po2,hot_co2,hot_po2,small_volcano,slimy_po2,molten_gold,hot_water,molten_copper,molten_iron,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16042-0",
+    "list": "steam,methane,steam,methane,salt_water,big_volcano,filthy_water,hot_co2,hot_po2,slush_water,slush_water,hot_water,hot_co2,molten_copper,steam,liquid_co2,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16043-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,filthy_water,hot_water,hot_water,molten_gold,oil_drip,salt_water,methane,slush_water,filthy_water,hot_co2,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16044-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_iron,big_volcano,filthy_water,steam,methane,hot_po2,hot_co2,molten_gold,slush_salt_water,big_volcano,chlorine_gas,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16045-0",
+    "list": "steam,methane,steam,methane,salt_water,liquid_co2,molten_copper,slimy_po2,slush_water,hot_po2,slush_water,molten_gold,small_volcano,hot_co2,hot_hydrogen,chlorine_gas,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16046-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,chlorine_gas,salt_water,oil_drip,small_volcano,chlorine_gas,liquid_co2,chlorine_gas,slush_water,hot_hydrogen,slush_salt_water,big_volcano,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16047-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slimy_po2,oil_drip,chlorine_gas,hot_co2,chlorine_gas,filthy_water,molten_copper,small_volcano,hot_po2,chlorine_gas,steam,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16048-0",
+    "list": "steam,methane,steam,methane,salt_water,small_volcano,salt_water,methane,salt_water,small_volcano,oil_drip,methane,hot_water,slush_water,oil_drip,molten_gold,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16049-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,molten_gold,slush_water,hot_steam,hot_steam,hot_po2,liquid_co2,liquid_co2,molten_iron,steam,hot_po2,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16050-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_co2,hot_steam,oil_drip,salt_water,hot_water,big_volcano,molten_iron,hot_po2,slush_salt_water,filthy_water,molten_copper,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16051-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,chlorine_gas,small_volcano,hot_water,salt_water,salt_water,steam,salt_water,salt_water,slimy_po2,salt_water,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16052-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,molten_gold,filthy_water,slush_water,small_volcano,slush_water,steam,hot_steam,chlorine_gas,filthy_water,molten_gold,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16053-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,molten_copper,chlorine_gas,big_volcano,hot_co2,hot_water,liquid_co2,slush_water,steam,hot_hydrogen,molten_iron,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16054-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_iron,hot_co2,hot_co2,slush_water,liquid_co2,slush_water,filthy_water,methane,slush_salt_water,oil_drip,small_volcano,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16055-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,hot_steam,molten_iron,hot_water,hot_po2,chlorine_gas,oil_drip,hot_steam,slush_salt_water,small_volcano,hot_co2,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16056-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_gold,chlorine_gas,small_volcano,salt_water,small_volcano,hot_hydrogen,slush_salt_water,molten_gold,small_volcano,hot_water,big_volcano,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16057-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,slush_salt_water,hot_po2,oil_drip,liquid_co2,hot_steam,slimy_po2,molten_copper,hot_co2,molten_iron,small_volcano,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16058-0",
+    "list": "steam,methane,steam,methane,salt_water,steam,slush_salt_water,oil_drip,big_volcano,small_volcano,big_volcano,small_volcano,hot_hydrogen,hot_co2,molten_gold,filthy_water,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16059-0",
+    "list": "steam,methane,steam,methane,salt_water,slimy_po2,steam,steam,molten_iron,filthy_water,hot_water,hot_water,liquid_co2,big_volcano,slimy_po2,methane,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16060-0",
+    "list": "steam,methane,steam,methane,salt_water,slimy_po2,hot_co2,hot_water,salt_water,big_volcano,liquid_co2,oil_drip,hot_steam,molten_gold,hot_water,hot_po2,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16061-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,slush_water,salt_water,hot_water,hot_hydrogen,filthy_water,molten_iron,slimy_po2,liquid_co2,molten_gold,hot_co2,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16062-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,liquid_co2,hot_po2,methane,filthy_water,hot_co2,chlorine_gas,oil_drip,methane,filthy_water,hot_water,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16063-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slimy_po2,methane,molten_gold,molten_gold,big_volcano,small_volcano,slush_water,small_volcano,hot_co2,slimy_po2,salt_water,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16064-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,oil_drip,hot_hydrogen,oil_drip,steam,big_volcano,small_volcano,chlorine_gas,hot_hydrogen,hot_hydrogen,filthy_water,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16065-0",
+    "list": "steam,methane,steam,methane,salt_water,steam,slimy_po2,hot_co2,hot_steam,molten_gold,hot_co2,chlorine_gas,hot_co2,molten_gold,steam,molten_gold,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16066-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,molten_copper,slush_water,hot_steam,small_volcano,liquid_co2,hot_hydrogen,liquid_co2,hot_water,liquid_co2,molten_copper,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16067-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,hot_po2,hot_co2,slimy_po2,small_volcano,hot_co2,salt_water,molten_copper,molten_copper,salt_water,methane,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16068-0",
+    "list": "steam,methane,steam,methane,salt_water,oil_drip,salt_water,hot_hydrogen,molten_iron,oil_drip,oil_drip,hot_water,hot_steam,small_volcano,molten_copper,slush_salt_water,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16069-0",
+    "list": "steam,methane,steam,methane,salt_water,oil_drip,hot_hydrogen,small_volcano,oil_drip,slush_salt_water,slush_water,liquid_co2,hot_po2,liquid_co2,steam,molten_copper,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16070-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,hot_steam,chlorine_gas,big_volcano,slush_water,hot_hydrogen,small_volcano,slush_salt_water,methane,chlorine_gas,hot_po2,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16071-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_water,methane,hot_co2,molten_gold,slimy_po2,hot_po2,steam,liquid_co2,hot_hydrogen,molten_iron,steam,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16072-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_water,oil_drip,hot_water,hot_steam,molten_copper,slush_water,oil_drip,slush_salt_water,oil_drip,molten_gold,big_volcano,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16073-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_water,slush_salt_water,molten_gold,slush_water,hot_hydrogen,liquid_co2,hot_steam,small_volcano,oil_drip,steam,hot_water,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16074-0",
+    "list": " [WARNING] Room has no centerpoints. Terrain Cell [ shape: Square size: 1] [1 features/generic/StartLocation (129.7, 190.8)],steam,chlorine_gas,steam,methane,salt_water,slush_water,methane,hot_po2,small_volcano,liquid_co2,hot_po2,salt_water,salt_water,hot_co2,liquid_co2,molten_iron,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16075-0",
+    "list": "steam,methane,steam,methane,salt_water,big_volcano,hot_co2,liquid_co2,slush_salt_water,salt_water,small_volcano,slimy_po2,salt_water,liquid_co2,liquid_co2,liquid_co2,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16076-0",
+    "list": "steam,methane,steam,methane,salt_water,liquid_co2,chlorine_gas,chlorine_gas,steam,slush_salt_water,big_volcano,salt_water,slimy_po2,hot_co2,molten_gold,methane,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16077-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,big_volcano,hot_po2,hot_water,methane,molten_iron,hot_water,filthy_water,big_volcano,chlorine_gas,salt_water,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16078-0",
+    "list": " [WARNING] Room has no centerpoints. Terrain Cell [ shape: Square size: 1] [1 features/generic/StartLocation (127.6, 192.0)],steam,chlorine_gas,steam,methane,salt_water,methane,slush_salt_water,small_volcano,slush_salt_water,hot_water,salt_water,hot_hydrogen,slimy_po2,big_volcano,hot_steam,steam,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16079-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,hot_co2,molten_copper,hot_hydrogen,molten_iron,small_volcano,filthy_water,hot_hydrogen,slush_salt_water,slimy_po2,molten_gold,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16080-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,molten_iron,molten_gold,hot_po2,molten_iron,salt_water,chlorine_gas,slush_salt_water,liquid_co2,hot_po2,oil_drip,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16081-0",
+    "list": "steam,methane,steam,methane,salt_water,steam,slush_salt_water,molten_copper,methane,methane,slimy_po2,slimy_po2,hot_steam,salt_water,hot_steam,salt_water,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16082-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,filthy_water,hot_water,slush_water,hot_hydrogen,small_volcano,chlorine_gas,liquid_co2,molten_gold,hot_co2,hot_steam,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16083-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,liquid_co2,hot_steam,hot_co2,slush_water,slush_water,hot_hydrogen,liquid_co2,filthy_water,hot_po2,methane,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16084-0",
+    "list": "steam,methane,steam,methane,salt_water,big_volcano,oil_drip,hot_steam,small_volcano,slush_water,steam,liquid_co2,oil_drip,slush_water,filthy_water,oil_drip,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16085-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,chlorine_gas,small_volcano,molten_copper,slush_water,molten_iron,slush_salt_water,hot_water,filthy_water,hot_water,big_volcano,filthy_water,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16086-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,chlorine_gas,hot_steam,hot_po2,hot_po2,small_volcano,methane,molten_iron,hot_co2,hot_steam,steam,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16087-0",
+    "list": " [WARNING] Room has no centerpoints. Terrain Cell [ shape: Square size: 1] [1 features/generic/StartLocation (126.7, 199.3)],steam,chlorine_gas,steam,methane,salt_water,steam,slimy_po2,slush_salt_water,molten_iron,slush_water,big_volcano,hot_hydrogen,chlorine_gas,molten_iron,slush_salt_water,slimy_po2,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16088-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_co2,filthy_water,molten_copper,slimy_po2,methane,molten_copper,filthy_water,methane,molten_gold,hot_water,big_volcano,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16089-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,methane,filthy_water,hot_water,steam,molten_iron,oil_drip,slimy_po2,hot_hydrogen,slush_salt_water,hot_water,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16090-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_po2,molten_gold,slush_salt_water,big_volcano,big_volcano,molten_gold,molten_gold,chlorine_gas,molten_copper,slush_water,slush_water,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16091-0",
+    "list": " [WARNING] Room has no centerpoints. Terrain Cell [ shape: Square size: 1] [1 features/generic/StartLocation (127.5, 192.0)],steam,methane,steam,methane,salt_water,hot_water,salt_water,molten_gold,methane,chlorine_gas,hot_steam,big_volcano,molten_copper,hot_co2,big_volcano,hot_hydrogen,oil_drip"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16092-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,small_volcano,steam,hot_co2,hot_po2,hot_hydrogen,hot_steam,hot_co2,methane,hot_po2,liquid_co2,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16093-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_gold,molten_gold,hot_po2,oil_drip,slush_water,chlorine_gas,slush_water,small_volcano,hot_steam,oil_drip,hot_water,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16094-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slimy_po2,molten_iron,chlorine_gas,salt_water,slimy_po2,steam,slush_water,methane,steam,filthy_water,chlorine_gas,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16095-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_hydrogen,hot_po2,hot_steam,steam,hot_water,big_volcano,liquid_co2,small_volcano,methane,liquid_co2,hot_po2,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16096-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_copper,hot_steam,hot_water,methane,methane,hot_water,hot_water,molten_gold,molten_iron,filthy_water,hot_water,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16097-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,liquid_co2,molten_iron,filthy_water,hot_steam,liquid_co2,slush_water,hot_hydrogen,methane,hot_po2,salt_water,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16098-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,big_volcano,slush_salt_water,methane,big_volcano,salt_water,slush_salt_water,slush_water,steam,hot_water,chlorine_gas,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16099-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,small_volcano,molten_gold,chlorine_gas,molten_copper,slimy_po2,steam,hot_co2,molten_gold,methane,salt_water,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16100-0",
+    "list": "steam,methane,steam,methane,salt_water,slimy_po2,hot_co2,molten_copper,big_volcano,small_volcano,hot_water,slush_salt_water,steam,molten_iron,slimy_po2,hot_steam,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16101-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_copper,big_volcano,steam,hot_po2,methane,small_volcano,big_volcano,methane,big_volcano,hot_hydrogen,hot_co2,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16102-0",
+    "list": "steam,methane,steam,methane,salt_water,liquid_co2,methane,hot_water,molten_copper,methane,hot_co2,salt_water,salt_water,molten_copper,liquid_co2,slush_salt_water,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16103-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,hot_po2,slimy_po2,liquid_co2,salt_water,small_volcano,hot_steam,liquid_co2,liquid_co2,liquid_co2,hot_po2,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16104-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,liquid_co2,hot_water,molten_copper,hot_water,slush_water,slimy_po2,hot_po2,big_volcano,filthy_water,hot_co2,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16105-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,filthy_water,hot_po2,hot_steam,salt_water,hot_steam,chlorine_gas,molten_iron,small_volcano,molten_iron,big_volcano,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16106-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,methane,big_volcano,hot_co2,steam,molten_gold,hot_hydrogen,slimy_po2,big_volcano,molten_gold,molten_copper,liquid_co2,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16107-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,oil_drip,hot_hydrogen,slimy_po2,small_volcano,salt_water,methane,slush_salt_water,slush_water,big_volcano,chlorine_gas,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16108-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,salt_water,big_volcano,small_volcano,slush_water,molten_copper,molten_gold,slush_water,hot_hydrogen,liquid_co2,slush_salt_water,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16109-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,chlorine_gas,hot_water,molten_iron,slush_water,slush_salt_water,molten_gold,liquid_co2,hot_steam,hot_co2,molten_gold,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16110-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,molten_iron,hot_water,hot_po2,hot_hydrogen,hot_po2,hot_water,slush_salt_water,slush_salt_water,hot_co2,molten_iron,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16111-0",
+    "list": " [WARNING] Room has no centerpoints. Terrain Cell [ shape: Square size: 1] [1 features/generic/StartLocation (127.8, 188.7)],steam,chlorine_gas,steam,methane,salt_water,hot_hydrogen,hot_hydrogen,steam,oil_drip,oil_drip,hot_po2,molten_copper,hot_steam,hot_hydrogen,slimy_po2,slush_salt_water,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16112-0",
+    "list": "steam,methane,steam,methane,salt_water,big_volcano,molten_copper,steam,molten_gold,molten_copper,methane,oil_drip,big_volcano,molten_iron,liquid_co2,hot_hydrogen,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16113-0",
+    "list": "steam,methane,steam,methane,salt_water,filthy_water,chlorine_gas,hot_po2,hot_hydrogen,molten_gold,hot_steam,filthy_water,slush_water,hot_hydrogen,methane,salt_water,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16114-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,big_volcano,hot_water,big_volcano,small_volcano,slush_water,small_volcano,molten_gold,hot_hydrogen,slush_salt_water,liquid_co2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16115-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,molten_gold,slush_salt_water,slush_salt_water,methane,molten_gold,liquid_co2,hot_co2,hot_steam,steam,molten_copper,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16116-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_gold,salt_water,molten_iron,methane,hot_hydrogen,hot_water,molten_iron,filthy_water,molten_gold,slimy_po2,slimy_po2,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16117-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,filthy_water,molten_gold,oil_drip,molten_gold,oil_drip,hot_steam,molten_gold,methane,hot_hydrogen,hot_po2,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16118-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,big_volcano,molten_copper,slush_water,hot_steam,molten_copper,hot_steam,filthy_water,small_volcano,molten_iron,chlorine_gas,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16119-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_copper,chlorine_gas,methane,slimy_po2,molten_iron,molten_copper,hot_hydrogen,hot_steam,hot_hydrogen,salt_water,hot_co2,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16120-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,slush_water,hot_water,big_volcano,molten_iron,hot_po2,liquid_co2,slimy_po2,oil_drip,hot_po2,hot_co2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16121-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,methane,oil_drip,molten_copper,big_volcano,hot_po2,slush_salt_water,molten_iron,molten_gold,molten_copper,hot_hydrogen,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16122-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,steam,big_volcano,molten_iron,chlorine_gas,liquid_co2,methane,hot_steam,molten_copper,hot_water,hot_po2,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16123-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,slush_salt_water,steam,big_volcano,methane,slush_salt_water,molten_copper,slush_water,hot_water,salt_water,molten_gold,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16124-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slimy_po2,hot_hydrogen,molten_gold,small_volcano,hot_water,methane,methane,hot_hydrogen,molten_gold,hot_hydrogen,methane,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16125-0",
+    "list": "steam,methane,steam,methane,salt_water,filthy_water,big_volcano,molten_gold,salt_water,hot_po2,molten_gold,slush_water,liquid_co2,steam,slush_salt_water,slimy_po2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16126-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_iron,steam,molten_gold,molten_gold,oil_drip,hot_po2,hot_water,chlorine_gas,filthy_water,oil_drip,steam,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16127-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,salt_water,salt_water,big_volcano,oil_drip,small_volcano,hot_co2,steam,hot_water,liquid_co2,oil_drip,hot_steam,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16128-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,filthy_water,liquid_co2,molten_gold,hot_water,methane,methane,hot_po2,steam,big_volcano,molten_iron,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16129-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,filthy_water,slush_water,salt_water,molten_copper,steam,methane,methane,liquid_co2,liquid_co2,hot_water,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16130-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_water,methane,liquid_co2,molten_gold,molten_copper,slimy_po2,filthy_water,molten_iron,molten_gold,small_volcano,small_volcano,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16131-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,hot_steam,methane,hot_steam,liquid_co2,molten_copper,small_volcano,steam,big_volcano,small_volcano,small_volcano,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16132-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,slimy_po2,liquid_co2,hot_steam,chlorine_gas,salt_water,hot_co2,big_volcano,slush_water,slush_salt_water,steam,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16133-0",
+    "list": "steam,methane,steam,methane,salt_water,methane,chlorine_gas,slush_water,liquid_co2,molten_gold,big_volcano,slush_salt_water,salt_water,slush_water,liquid_co2,chlorine_gas,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16134-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_gold,hot_hydrogen,oil_drip,slush_salt_water,slush_salt_water,big_volcano,methane,slimy_po2,chlorine_gas,oil_drip,hot_co2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16135-0",
+    "list": "steam,methane,steam,methane,salt_water,oil_drip,slush_salt_water,filthy_water,oil_drip,slush_salt_water,molten_copper,salt_water,small_volcano,slimy_po2,slush_water,steam,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16136-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,big_volcano,salt_water,hot_steam,steam,big_volcano,hot_co2,methane,hot_steam,small_volcano,molten_gold,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16137-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,hot_water,small_volcano,small_volcano,steam,steam,liquid_co2,steam,molten_copper,salt_water,steam,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16138-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_iron,hot_water,hot_hydrogen,filthy_water,molten_gold,liquid_co2,big_volcano,oil_drip,chlorine_gas,hot_po2,methane,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16139-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_gold,methane,slimy_po2,slush_water,liquid_co2,chlorine_gas,molten_iron,liquid_co2,hot_co2,methane,hot_water,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16140-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,hot_po2,hot_co2,slimy_po2,slush_water,slush_water,methane,chlorine_gas,liquid_co2,molten_iron,slimy_po2,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16141-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,chlorine_gas,oil_drip,big_volcano,hot_po2,slush_water,hot_hydrogen,slush_water,molten_gold,hot_steam,salt_water,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16142-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,hot_hydrogen,slush_salt_water,molten_gold,salt_water,slush_salt_water,hot_water,small_volcano,molten_iron,chlorine_gas,slush_salt_water,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16143-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,hot_po2,steam,chlorine_gas,filthy_water,hot_water,small_volcano,chlorine_gas,oil_drip,hot_hydrogen,oil_drip,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16144-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,hot_hydrogen,hot_co2,filthy_water,liquid_co2,molten_iron,oil_drip,hot_hydrogen,hot_co2,slush_salt_water,hot_water,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16145-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,hot_co2,slimy_po2,slush_water,chlorine_gas,liquid_co2,molten_copper,molten_iron,slimy_po2,molten_gold,hot_steam,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16146-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_water,salt_water,slush_salt_water,hot_hydrogen,hot_po2,hot_co2,liquid_co2,chlorine_gas,oil_drip,molten_iron,big_volcano,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16147-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_copper,hot_po2,chlorine_gas,hot_water,salt_water,molten_iron,liquid_co2,molten_iron,molten_copper,chlorine_gas,hot_water,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16148-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,molten_iron,slush_water,oil_drip,molten_iron,hot_co2,methane,small_volcano,methane,methane,liquid_co2,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16149-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_water,molten_copper,hot_steam,slimy_po2,slush_water,small_volcano,molten_gold,salt_water,molten_iron,chlorine_gas,molten_iron,oil_drip"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16150-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_gold,liquid_co2,hot_co2,molten_iron,methane,molten_iron,hot_water,hot_steam,hot_water,hot_po2,small_volcano,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16151-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_copper,hot_hydrogen,small_volcano,slush_water,hot_steam,molten_gold,hot_co2,salt_water,molten_gold,slimy_po2,slimy_po2,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16152-0",
+    "list": "steam,methane,steam,methane,salt_water,slimy_po2,molten_iron,hot_water,hot_co2,chlorine_gas,molten_iron,salt_water,hot_steam,molten_gold,molten_copper,slush_salt_water,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16153-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,hot_steam,hot_water,liquid_co2,slimy_po2,methane,slush_salt_water,slush_water,hot_steam,steam,chlorine_gas,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16154-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_co2,hot_steam,hot_co2,hot_water,hot_water,hot_co2,liquid_co2,salt_water,molten_copper,filthy_water,oil_drip,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16155-0",
+    "list": "steam,methane,steam,methane,salt_water,methane,big_volcano,hot_steam,big_volcano,slimy_po2,slimy_po2,small_volcano,hot_steam,slimy_po2,molten_gold,hot_water,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16156-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,oil_drip,methane,chlorine_gas,steam,steam,hot_po2,hot_steam,filthy_water,slush_salt_water,chlorine_gas,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16157-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,hot_hydrogen,slush_salt_water,salt_water,steam,filthy_water,hot_hydrogen,molten_gold,slimy_po2,filthy_water,slimy_po2,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16158-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_gold,filthy_water,hot_water,slimy_po2,chlorine_gas,steam,big_volcano,hot_steam,slimy_po2,oil_drip,small_volcano,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16159-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,small_volcano,filthy_water,big_volcano,molten_iron,steam,filthy_water,steam,hot_co2,big_volcano,methane,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16160-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_hydrogen,methane,oil_drip,hot_water,methane,hot_hydrogen,slush_water,oil_drip,methane,filthy_water,molten_gold,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16161-0",
+    "list": "steam,methane,steam,methane,salt_water,slimy_po2,hot_hydrogen,hot_water,steam,big_volcano,slush_water,hot_hydrogen,small_volcano,molten_copper,big_volcano,hot_co2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16162-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slimy_po2,hot_water,oil_drip,big_volcano,molten_copper,slush_salt_water,salt_water,hot_water,chlorine_gas,hot_steam,slimy_po2,oil_drip"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16163-0",
+    "list": "steam,methane,steam,methane,salt_water,oil_drip,hot_po2,big_volcano,steam,hot_po2,chlorine_gas,molten_gold,slush_water,chlorine_gas,liquid_co2,hot_steam,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16164-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,slush_salt_water,slimy_po2,slush_salt_water,methane,methane,molten_iron,molten_copper,hot_po2,molten_copper,hot_co2,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16165-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,steam,salt_water,slush_salt_water,filthy_water,methane,slush_salt_water,filthy_water,slush_water,small_volcano,small_volcano,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16166-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,hot_po2,steam,steam,slimy_po2,molten_copper,hot_steam,oil_drip,chlorine_gas,liquid_co2,hot_steam,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16167-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,hot_steam,hot_hydrogen,salt_water,methane,molten_gold,methane,big_volcano,hot_co2,hot_hydrogen,oil_drip,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16168-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_salt_water,hot_po2,chlorine_gas,hot_water,steam,big_volcano,hot_steam,slimy_po2,hot_steam,hot_steam,hot_water,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16169-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,slush_salt_water,chlorine_gas,molten_iron,slush_water,slimy_po2,big_volcano,chlorine_gas,hot_steam,hot_hydrogen,slimy_po2,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16170-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_hydrogen,hot_water,steam,chlorine_gas,oil_drip,chlorine_gas,hot_steam,methane,salt_water,hot_po2,hot_steam,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16171-0",
+    "list": "steam,methane,steam,methane,salt_water,methane,slimy_po2,slush_water,hot_steam,oil_drip,big_volcano,slush_salt_water,filthy_water,slush_water,molten_iron,hot_water,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16172-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,slimy_po2,hot_steam,hot_steam,oil_drip,oil_drip,hot_hydrogen,hot_hydrogen,hot_co2,hot_hydrogen,hot_po2,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16173-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_steam,small_volcano,hot_po2,small_volcano,filthy_water,hot_steam,oil_drip,slush_salt_water,oil_drip,slush_salt_water,hot_water,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16174-0",
+    "list": "steam,methane,steam,methane,salt_water,steam,hot_water,slush_water,small_volcano,molten_gold,hot_steam,hot_po2,molten_gold,hot_po2,hot_steam,salt_water,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16175-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,hot_po2,oil_drip,filthy_water,steam,molten_gold,oil_drip,methane,methane,slush_water,hot_water,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16176-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,salt_water,molten_iron,small_volcano,filthy_water,steam,slimy_po2,molten_iron,hot_co2,hot_water,slimy_po2,molten_copper,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16177-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,molten_copper,hot_hydrogen,big_volcano,hot_po2,molten_gold,steam,salt_water,salt_water,big_volcano,big_volcano,oil_drip"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16178-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_co2,hot_co2,chlorine_gas,methane,molten_copper,methane,salt_water,molten_gold,chlorine_gas,oil_drip,hot_hydrogen,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16179-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_po2,chlorine_gas,steam,hot_hydrogen,methane,hot_hydrogen,salt_water,filthy_water,molten_gold,small_volcano,filthy_water,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16180-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,hot_po2,liquid_co2,oil_drip,hot_steam,chlorine_gas,hot_water,big_volcano,hot_po2,hot_water,methane,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16181-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,small_volcano,methane,molten_gold,hot_hydrogen,molten_gold,hot_water,big_volcano,hot_co2,hot_hydrogen,hot_water,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16182-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_steam,hot_water,hot_hydrogen,chlorine_gas,small_volcano,methane,slush_water,hot_water,filthy_water,hot_po2,small_volcano,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16183-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,slush_water,hot_hydrogen,big_volcano,slimy_po2,slush_water,big_volcano,hot_co2,salt_water,hot_steam,slush_salt_water,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16184-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_water,oil_drip,small_volcano,hot_water,hot_co2,methane,methane,hot_po2,molten_iron,slimy_po2,slush_salt_water,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16185-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,molten_gold,molten_copper,slush_salt_water,hot_hydrogen,molten_iron,molten_copper,hot_water,slush_salt_water,slimy_po2,molten_gold,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16186-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,molten_copper,steam,hot_po2,hot_water,big_volcano,salt_water,hot_water,steam,hot_water,hot_hydrogen,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16187-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,big_volcano,slimy_po2,methane,molten_gold,molten_copper,hot_water,liquid_co2,small_volcano,small_volcano,hot_water,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16188-0",
+    "list": "steam,methane,steam,methane,salt_water,filthy_water,filthy_water,oil_drip,molten_copper,hot_steam,salt_water,molten_copper,oil_drip,hot_steam,oil_drip,molten_iron,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16189-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,chlorine_gas,slimy_po2,slush_water,slush_water,filthy_water,chlorine_gas,salt_water,chlorine_gas,slush_salt_water,molten_gold,methane,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16190-0",
+    "list": "steam,methane,steam,methane,salt_water,oil_drip,salt_water,hot_po2,big_volcano,hot_hydrogen,small_volcano,slimy_po2,salt_water,salt_water,slimy_po2,slush_salt_water,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16191-0",
+    "list": "steam,methane,steam,methane,salt_water,steam,slimy_po2,hot_hydrogen,steam,liquid_co2,hot_co2,hot_water,hot_po2,hot_hydrogen,slimy_po2,big_volcano,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16192-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_iron,hot_hydrogen,hot_water,small_volcano,liquid_co2,slush_salt_water,oil_drip,slimy_po2,slimy_po2,slush_salt_water,slimy_po2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16193-0",
+    "list": "steam,methane,steam,methane,salt_water,filthy_water,steam,hot_hydrogen,filthy_water,oil_drip,molten_iron,slush_salt_water,slimy_po2,hot_water,molten_copper,liquid_co2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16194-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_iron,oil_drip,slush_water,molten_gold,chlorine_gas,filthy_water,hot_co2,big_volcano,hot_co2,molten_copper,salt_water,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16195-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,steam,slush_salt_water,oil_drip,hot_co2,liquid_co2,molten_copper,oil_drip,liquid_co2,small_volcano,hot_po2,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16196-0",
+    "list": "steam,methane,steam,methane,salt_water,methane,slush_water,slush_water,filthy_water,chlorine_gas,molten_iron,small_volcano,hot_water,hot_water,hot_steam,slimy_po2,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16197-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,chlorine_gas,methane,methane,hot_water,slush_salt_water,hot_co2,hot_steam,steam,molten_copper,salt_water,hot_hydrogen,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16198-0",
+    "list": "steam,methane,steam,methane,salt_water,oil_drip,oil_drip,hot_po2,methane,big_volcano,big_volcano,hot_po2,small_volcano,salt_water,hot_po2,molten_iron,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16199-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_gold,hot_co2,hot_water,molten_iron,hot_hydrogen,slimy_po2,hot_hydrogen,slush_salt_water,slush_water,salt_water,slush_water,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16200-0",
+    "list": " [WARNING] Room has no centerpoints. Terrain Cell [ shape: Square size: 1] [1 features/generic/StartLocation (129.1, 191.4)],steam,chlorine_gas,steam,methane,salt_water,methane,hot_water,molten_copper,big_volcano,oil_drip,hot_steam,big_volcano,big_volcano,steam,hot_po2,oil_drip,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16201-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,molten_copper,slush_salt_water,filthy_water,filthy_water,molten_iron,hot_po2,hot_steam,methane,salt_water,hot_co2,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16202-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_iron,molten_gold,slush_salt_water,hot_co2,filthy_water,slush_salt_water,salt_water,hot_water,hot_steam,molten_iron,slush_salt_water,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16203-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_gold,slimy_po2,small_volcano,slimy_po2,hot_hydrogen,molten_iron,slush_water,slush_water,methane,liquid_co2,small_volcano,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16204-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,salt_water,molten_iron,molten_gold,hot_steam,big_volcano,filthy_water,salt_water,salt_water,small_volcano,chlorine_gas,slush_salt_water,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16205-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,molten_gold,big_volcano,big_volcano,molten_copper,molten_gold,hot_hydrogen,chlorine_gas,steam,molten_copper,molten_iron,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16206-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_water,molten_gold,slimy_po2,big_volcano,hot_hydrogen,hot_steam,steam,hot_water,hot_steam,oil_drip,slush_salt_water,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16207-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,chlorine_gas,slush_salt_water,molten_iron,slush_salt_water,liquid_co2,small_volcano,small_volcano,big_volcano,methane,hot_co2,methane,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16208-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,filthy_water,hot_po2,steam,salt_water,slush_water,oil_drip,hot_water,slimy_po2,hot_steam,methane,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16209-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,liquid_co2,liquid_co2,slush_salt_water,chlorine_gas,slush_water,slush_salt_water,hot_steam,hot_hydrogen,small_volcano,hot_hydrogen,slush_salt_water,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16210-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,hot_water,slush_salt_water,oil_drip,liquid_co2,slush_water,liquid_co2,hot_co2,hot_water,methane,slush_water,oil_drip"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16211-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,molten_iron,molten_gold,hot_water,hot_po2,salt_water,hot_hydrogen,molten_iron,big_volcano,slush_water,liquid_co2,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16212-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_po2,slush_salt_water,hot_po2,salt_water,molten_iron,liquid_co2,molten_iron,hot_water,salt_water,steam,molten_iron,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16213-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_hydrogen,slush_water,salt_water,hot_po2,hot_hydrogen,liquid_co2,chlorine_gas,big_volcano,steam,salt_water,hot_water,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16214-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,hot_water,molten_iron,oil_drip,hot_co2,molten_iron,slush_water,methane,slush_water,hot_hydrogen,methane,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16215-0",
+    "list": "steam,methane,steam,methane,salt_water,liquid_co2,slush_salt_water,slimy_po2,hot_steam,hot_co2,salt_water,slimy_po2,hot_hydrogen,slush_salt_water,slimy_po2,hot_water,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16216-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_po2,steam,hot_hydrogen,methane,oil_drip,hot_hydrogen,small_volcano,molten_iron,slush_water,molten_gold,molten_gold,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16217-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,slush_salt_water,hot_steam,molten_iron,steam,slimy_po2,hot_co2,filthy_water,hot_po2,slush_salt_water,steam,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16218-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_copper,oil_drip,hot_water,molten_gold,slush_water,molten_iron,hot_po2,filthy_water,molten_copper,hot_steam,molten_copper,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16219-0",
+    "list": "steam,methane,steam,methane,salt_water,small_volcano,molten_iron,hot_co2,molten_copper,molten_iron,chlorine_gas,salt_water,slush_water,slush_salt_water,big_volcano,hot_po2,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16220-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slimy_po2,big_volcano,slush_salt_water,small_volcano,hot_co2,hot_po2,filthy_water,small_volcano,slush_salt_water,slush_water,big_volcano,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16221-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,slimy_po2,big_volcano,hot_steam,small_volcano,methane,chlorine_gas,molten_copper,molten_gold,hot_water,slush_water,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16222-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,slush_salt_water,big_volcano,slush_salt_water,hot_steam,oil_drip,filthy_water,filthy_water,molten_gold,slush_salt_water,liquid_co2,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16223-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_po2,methane,steam,filthy_water,steam,big_volcano,liquid_co2,steam,slush_salt_water,hot_po2,slimy_po2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16224-0",
+    "list": "steam,methane,steam,methane,salt_water,filthy_water,big_volcano,liquid_co2,chlorine_gas,salt_water,slush_salt_water,small_volcano,hot_hydrogen,liquid_co2,hot_water,slimy_po2,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16225-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,slush_salt_water,hot_po2,hot_steam,hot_hydrogen,hot_steam,molten_gold,hot_water,slush_salt_water,hot_hydrogen,molten_gold,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16226-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,liquid_co2,molten_copper,molten_gold,hot_po2,salt_water,big_volcano,slush_salt_water,methane,methane,hot_hydrogen,hot_water,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16227-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_iron,oil_drip,hot_po2,small_volcano,slush_water,slush_water,molten_iron,salt_water,hot_hydrogen,molten_copper,salt_water,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16228-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_gold,chlorine_gas,salt_water,small_volcano,filthy_water,steam,oil_drip,big_volcano,methane,slimy_po2,slimy_po2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16229-0",
+    "list": "steam,methane,steam,methane,salt_water,steam,hot_water,molten_copper,molten_copper,oil_drip,slimy_po2,hot_water,molten_iron,oil_drip,hot_hydrogen,hot_po2,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16230-0",
+    "list": "steam,methane,steam,methane,salt_water,oil_drip,hot_water,filthy_water,slimy_po2,slush_salt_water,slimy_po2,hot_steam,liquid_co2,hot_po2,slush_salt_water,salt_water,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16231-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,molten_gold,molten_gold,hot_steam,salt_water,filthy_water,small_volcano,hot_hydrogen,molten_copper,hot_hydrogen,salt_water,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16232-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,molten_iron,small_volcano,slush_water,chlorine_gas,filthy_water,oil_drip,big_volcano,molten_copper,molten_copper,steam,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16233-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,small_volcano,molten_iron,molten_copper,chlorine_gas,small_volcano,liquid_co2,molten_gold,filthy_water,filthy_water,small_volcano,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16234-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,hot_hydrogen,molten_iron,hot_steam,chlorine_gas,salt_water,slush_salt_water,hot_water,chlorine_gas,molten_iron,slimy_po2,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16235-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,slush_water,chlorine_gas,slush_salt_water,steam,hot_co2,molten_gold,hot_co2,steam,molten_gold,slimy_po2,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16236-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_copper,slimy_po2,steam,steam,liquid_co2,big_volcano,liquid_co2,slush_salt_water,hot_steam,slush_water,small_volcano,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16237-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_salt_water,hot_co2,hot_co2,hot_po2,big_volcano,liquid_co2,filthy_water,molten_gold,chlorine_gas,hot_hydrogen,oil_drip,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16238-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,salt_water,hot_hydrogen,slush_water,filthy_water,slush_water,hot_water,molten_copper,slush_water,methane,liquid_co2,steam,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16239-0",
+    "list": "085,steam,methane,steam,methane,salt_water,oil_drip,chlorine_gas,hot_po2,hot_po2,big_volcano,chlorine_gas,molten_gold,slimy_po2,oil_drip,molten_copper,molten_copper,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16240-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,slush_water,methane,chlorine_gas,hot_co2,methane,slimy_po2,big_volcano,slush_water,molten_gold,slush_salt_water,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16241-0",
+    "list": "046,steam,chlorine_gas,steam,methane,salt_water,hot_water,oil_drip,oil_drip,molten_iron,filthy_water,molten_iron,hot_steam,hot_po2,small_volcano,hot_po2,hot_water,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16242-0",
+    "list": "002,steam,chlorine_gas,steam,methane,salt_water,big_volcano,slush_water,slimy_po2,oil_drip,molten_copper,hot_hydrogen,small_volcano,oil_drip,steam,hot_water,hot_co2,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16243-0",
+    "list": "083,steam,methane,steam,methane,salt_water,hot_co2,slush_salt_water,chlorine_gas,hot_steam,slush_salt_water,hot_steam,slimy_po2,chlorine_gas,methane,liquid_co2,slimy_po2,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16244-0",
+    "list": "steam,methane,steam,methane,salt_water,slimy_po2,steam,salt_water,slush_water,hot_co2,molten_gold,chlorine_gas,slimy_po2,salt_water,hot_water,oil_drip,oil_drip"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16245-0",
+    "list": "105,steam,methane,steam,methane,salt_water,big_volcano,molten_copper,molten_copper,oil_drip,slush_water,molten_copper,salt_water,slush_salt_water,hot_water,slush_water,chlorine_gas,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16246-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,big_volcano,hot_hydrogen,hot_hydrogen,oil_drip,filthy_water,methane,molten_copper,methane,molten_gold,hot_steam,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16247-0",
+    "list": "steam,methane,steam,methane,salt_water,big_volcano,hot_po2,hot_hydrogen,oil_drip,hot_po2,slush_water,hot_co2,hot_co2,filthy_water,salt_water,slush_salt_water,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16248-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,liquid_co2,hot_water,slimy_po2,molten_gold,oil_drip,slush_salt_water,big_volcano,hot_po2,molten_gold,slush_salt_water,slimy_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16249-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_co2,steam,oil_drip,slush_water,hot_co2,steam,molten_iron,liquid_co2,chlorine_gas,salt_water,oil_drip,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16250-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,hot_co2,slimy_po2,slimy_po2,big_volcano,filthy_water,hot_water,slush_water,molten_copper,hot_co2,small_volcano,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16251-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,big_volcano,slush_water,filthy_water,molten_gold,hot_hydrogen,slimy_po2,oil_drip,molten_gold,slimy_po2,oil_drip,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16252-0",
+    "list": "steam,methane,steam,methane,salt_water,filthy_water,hot_water,steam,oil_drip,liquid_co2,steam,methane,hot_po2,filthy_water,slush_salt_water,hot_steam,hot_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16253-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,slush_water,chlorine_gas,filthy_water,liquid_co2,salt_water,methane,methane,steam,salt_water,hot_co2,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16254-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slimy_po2,steam,slush_water,oil_drip,slush_water,liquid_co2,chlorine_gas,hot_po2,salt_water,slush_salt_water,chlorine_gas,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16255-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,chlorine_gas,hot_hydrogen,big_volcano,slimy_po2,big_volcano,molten_copper,hot_steam,molten_copper,filthy_water,methane,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16256-0",
+    "list": "141,steam,chlorine_gas,steam,methane,salt_water,hot_co2,methane,hot_co2,molten_gold,hot_po2,oil_drip,steam,molten_gold,molten_copper,slush_salt_water,molten_copper,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16257-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,liquid_co2,slush_water,big_volcano,hot_po2,small_volcano,hot_po2,hot_water,hot_hydrogen,hot_water,steam,hot_po2,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16258-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_gold,methane,slush_salt_water,steam,steam,hot_co2,small_volcano,slimy_po2,hot_hydrogen,molten_iron,molten_iron,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16259-0",
+    "list": "steam,methane,steam,methane,salt_water,oil_drip,chlorine_gas,salt_water,steam,liquid_co2,hot_water,salt_water,steam,chlorine_gas,salt_water,small_volcano,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16260-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,methane,slimy_po2,hot_steam,molten_iron,filthy_water,hot_co2,molten_copper,molten_copper,salt_water,molten_gold,steam,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16261-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_water,methane,hot_co2,salt_water,chlorine_gas,methane,oil_drip,slush_water,hot_co2,slimy_po2,slush_water,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16262-0",
+    "list": "012,steam,chlorine_gas,steam,methane,salt_water,hot_po2,methane,chlorine_gas,salt_water,hot_co2,chlorine_gas,molten_copper,molten_iron,hot_co2,salt_water,hot_hydrogen,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16263-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,liquid_co2,hot_steam,slush_salt_water,hot_co2,hot_hydrogen,salt_water,chlorine_gas,chlorine_gas,big_volcano,steam,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16264-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_salt_water,hot_po2,molten_gold,liquid_co2,hot_steam,hot_water,slush_water,liquid_co2,molten_copper,liquid_co2,slush_water,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16265-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,methane,slush_salt_water,molten_copper,molten_gold,hot_steam,slush_salt_water,slush_salt_water,big_volcano,big_volcano,slush_salt_water,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16266-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,steam,molten_gold,small_volcano,slush_salt_water,hot_steam,liquid_co2,hot_steam,hot_co2,steam,slush_salt_water,molten_iron,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16267-0",
+    "list": "steam,methane,steam,methane,salt_water,small_volcano,filthy_water,steam,steam,molten_iron,molten_iron,hot_po2,hot_po2,salt_water,molten_copper,steam,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16268-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,salt_water,molten_iron,slush_water,slimy_po2,oil_drip,hot_hydrogen,hot_steam,salt_water,liquid_co2,hot_steam,liquid_co2,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16269-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slimy_po2,molten_gold,molten_gold,slush_water,steam,slush_salt_water,hot_water,molten_copper,hot_hydrogen,big_volcano,liquid_co2,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16270-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,hot_water,chlorine_gas,oil_drip,hot_steam,slush_salt_water,steam,hot_co2,filthy_water,molten_iron,hot_co2,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16271-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_water,small_volcano,oil_drip,chlorine_gas,molten_copper,hot_co2,slush_water,oil_drip,hot_steam,hot_hydrogen,hot_co2,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16272-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,molten_gold,hot_po2,steam,hot_water,hot_co2,hot_water,hot_hydrogen,methane,hot_water,molten_copper,salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16273-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,molten_copper,hot_co2,hot_steam,molten_iron,methane,small_volcano,filthy_water,molten_gold,oil_drip,steam,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16274-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_copper,big_volcano,slush_salt_water,hot_water,hot_steam,small_volcano,steam,molten_gold,small_volcano,oil_drip,liquid_co2,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16275-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,hot_co2,salt_water,salt_water,molten_copper,salt_water,hot_steam,oil_drip,oil_drip,molten_copper,salt_water,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16276-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_iron,molten_gold,salt_water,slush_water,filthy_water,filthy_water,slush_salt_water,hot_co2,oil_drip,steam,small_volcano,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16277-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,big_volcano,methane,steam,hot_co2,hot_co2,big_volcano,molten_copper,big_volcano,liquid_co2,filthy_water,small_volcano,oil_drip"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16278-0",
+    "list": "steam,methane,steam,methane,salt_water,filthy_water,molten_gold,molten_gold,steam,salt_water,steam,steam,liquid_co2,liquid_co2,big_volcano,methane,molten_iron"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16279-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_copper,filthy_water,molten_iron,methane,molten_gold,hot_po2,oil_drip,hot_hydrogen,steam,methane,molten_copper,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16280-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_gold,slimy_po2,big_volcano,hot_steam,chlorine_gas,slush_water,slush_water,liquid_co2,molten_copper,hot_steam,methane,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16281-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,hot_steam,hot_water,hot_co2,hot_water,slimy_po2,filthy_water,slush_water,hot_hydrogen,hot_co2,hot_steam,slush_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16282-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_iron,slush_salt_water,hot_co2,methane,filthy_water,hot_water,hot_co2,hot_co2,liquid_co2,slimy_po2,methane,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16283-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_salt_water,slimy_po2,small_volcano,big_volcano,chlorine_gas,filthy_water,slush_water,small_volcano,hot_hydrogen,hot_hydrogen,steam,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16284-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_hydrogen,hot_water,hot_water,hot_hydrogen,hot_hydrogen,slush_water,oil_drip,slimy_po2,hot_hydrogen,hot_steam,filthy_water,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16285-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,filthy_water,small_volcano,hot_water,salt_water,slush_water,hot_hydrogen,hot_hydrogen,molten_iron,hot_co2,oil_drip,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16286-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,small_volcano,hot_steam,steam,molten_gold,hot_steam,molten_gold,chlorine_gas,steam,chlorine_gas,filthy_water,hot_water,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16287-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_co2,big_volcano,hot_steam,molten_gold,methane,hot_hydrogen,slush_water,big_volcano,hot_po2,hot_water,liquid_co2,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16288-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,liquid_co2,hot_hydrogen,slush_salt_water,molten_gold,slush_water,filthy_water,hot_hydrogen,hot_water,salt_water,hot_po2,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16289-0",
+    "list": "steam,methane,steam,methane,salt_water,salt_water,small_volcano,slimy_po2,hot_water,hot_co2,molten_copper,hot_hydrogen,hot_po2,molten_gold,small_volcano,hot_water,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16290-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_steam,steam,hot_water,hot_co2,slush_salt_water,steam,slimy_po2,slush_salt_water,hot_steam,liquid_co2,oil_drip,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16291-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,hot_hydrogen,chlorine_gas,hot_co2,slush_water,salt_water,hot_water,filthy_water,hot_po2,salt_water,hot_hydrogen,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16292-0",
+    "list": "steam,methane,steam,methane,salt_water,chlorine_gas,slush_water,slush_water,small_volcano,small_volcano,molten_copper,filthy_water,molten_iron,slimy_po2,methane,molten_copper,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16293-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_po2,chlorine_gas,steam,small_volcano,small_volcano,chlorine_gas,slimy_po2,oil_drip,molten_iron,molten_copper,steam,big_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16294-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_copper,slush_water,chlorine_gas,hot_co2,filthy_water,big_volcano,hot_hydrogen,small_volcano,slush_water,molten_copper,slush_salt_water,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16295-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,slush_salt_water,big_volcano,molten_iron,methane,slush_water,hot_po2,methane,big_volcano,small_volcano,slimy_po2,hot_po2,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16296-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_po2,liquid_co2,chlorine_gas,small_volcano,hot_hydrogen,molten_iron,big_volcano,methane,hot_po2,hot_steam,methane,liquid_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16297-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_po2,slush_water,slimy_po2,small_volcano,slimy_po2,slush_salt_water,slush_salt_water,hot_co2,hot_po2,hot_water,hot_po2,molten_copper"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16298-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,molten_iron,molten_copper,slimy_po2,molten_gold,molten_copper,hot_co2,hot_co2,slimy_po2,salt_water,slush_salt_water,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16299-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_iron,slimy_po2,molten_gold,chlorine_gas,filthy_water,methane,hot_steam,salt_water,slimy_po2,steam,liquid_co2,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16300-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,molten_copper,hot_co2,slush_water,liquid_co2,hot_hydrogen,small_volcano,salt_water,slush_water,slimy_po2,molten_gold,slimy_po2,methane"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16301-0",
+    "list": "steam,methane,steam,methane,salt_water,methane,slush_salt_water,hot_steam,slush_water,hot_steam,hot_steam,molten_gold,salt_water,molten_copper,hot_steam,slush_salt_water,hot_steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16302-0",
+    "list": "steam,methane,steam,methane,salt_water,methane,hot_steam,hot_hydrogen,slush_water,small_volcano,hot_co2,liquid_co2,molten_iron,small_volcano,big_volcano,salt_water,steam"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16303-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_co2,hot_po2,hot_steam,small_volcano,hot_hydrogen,molten_iron,hot_co2,hot_hydrogen,hot_steam,molten_copper,hot_steam,hot_co2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16304-0",
+    "list": "steam,methane,steam,methane,salt_water,molten_copper,molten_copper,small_volcano,slush_salt_water,hot_water,liquid_co2,salt_water,molten_copper,molten_iron,liquid_co2,big_volcano,molten_gold"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16305-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_water,hot_po2,molten_copper,slush_water,oil_drip,filthy_water,molten_copper,salt_water,small_volcano,slush_salt_water,molten_iron,slush_salt_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16306-0",
+    "list": "steam,methane,steam,methane,salt_water,slush_salt_water,slush_water,hot_po2,big_volcano,slush_salt_water,hot_hydrogen,hot_hydrogen,small_volcano,salt_water,small_volcano,hot_po2,chlorine_gas"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16307-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,oil_drip,slush_salt_water,slush_salt_water,molten_copper,chlorine_gas,small_volcano,hot_hydrogen,small_volcano,slush_water,hot_steam,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16308-0",
+    "list": "steam,methane,steam,methane,salt_water,hot_steam,hot_steam,salt_water,oil_drip,hot_water,small_volcano,molten_gold,big_volcano,methane,hot_steam,slush_salt_water,small_volcano"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16309-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,hot_steam,small_volcano,hot_water,hot_steam,slush_salt_water,hot_steam,hot_hydrogen,slimy_po2,hot_co2,slush_water,hot_co2,hot_po2"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16310-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,oil_drip,molten_copper,hot_co2,hot_co2,hot_co2,molten_gold,small_volcano,hot_hydrogen,molten_copper,molten_gold,hot_hydrogen,filthy_water"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16311-0",
+    "list": "steam,chlorine_gas,steam,methane,salt_water,filthy_water,slush_water,hot_hydrogen,molten_iron,slush_salt_water,molten_iron,steam,slimy_po2,slush_water,slush_water,hot_co2,hot_hydrogen"
+}, {
+    "asteroid": "terra",
+    "seed": "SNDST-A-16312-0",
+    "list": "steam,methane,steam,methane,salt_water,methane,hot_po2,liquid_co2,molten_copper,filthy_water,slush_water,chlorine_gas,hot_hydrogen,small_volcano,slush_salt_water,methane,steam"
+}]

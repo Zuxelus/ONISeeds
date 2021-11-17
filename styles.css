@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Economica", sans-serif;
+  color: #fff;
+  background: url(/images/bg.png);
+}
+h1 {
+  padding: 20px 0 0 20px;
+}
+
+.ant-row-flex {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row wrap;
+      flex-flow: row wrap;
+}
+.ant-card {
+  background-color: rgba(50, 50, 50, 0.3);
+  border-radius: 4px;
+  margin: 8px;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+}
+.ant-card:hover {
+  background-color: rgba(80, 80, 80, 0.3);
+}
+.ant-card .ant-card-body {
+  padding: 16px;
+}
+.ant-card .ant-card-body .col-left {
+  justify-content: center;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  flex: 2 1;
+  min-width: 170px;
+}
+.ant-card .ant-card-body .col-left div {
+  flex-grow: 1; display: flex; flex-flow: column wrap; justify-content: center; align-items: center;
+}
+.ant-card .ant-card-body .col-left div img {
+  max-width: 150px;
+}
+.ant-card .ant-card-body .col-right {
+  justify-content: center;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  flex: 9 1;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+/* entity */
+.entity-chip {
+  margin: 4px;
+  padding: 4px;
+  min-width: 210px;
+  max-width: 210px;
+  height: 32px;
+  background: rgba(255, 255, 255, 0.07);
+  display: flex;
+  border-radius: 16px;
+  align-items: center;
+  justify-content: left;
+}
+.entity-chip-img-container {
+  overflow: hidden;
+  margin: -10px 4px -10px -5px;
+  border-radius: 20px;
+}
+.entity-chip-img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.entity-chip-count-container {
+  border-radius: 20px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+}
+.entity-chip-count-container p {
+  margin-bottom: inherit;
+}
+.entity-chip-count-container.green {
+  background: #2e7d32;
+}
+.entity-chip-count-container.red {
+  background: #b71c1c;
+}
