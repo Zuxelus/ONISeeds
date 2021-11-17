@@ -44,7 +44,7 @@ loadJSON(function (response) {
     for (var i = 0; i < data.length; i++) {
         var row = t.insertRow();
         var cell = row.insertCell();
-        var left = '<div class="ant-col col-left"><div><img src="/images/sndst-a.png"><p>' + data[i].seed + '</p></div></div>';
+        var left = '<div class="ant-col col-left"><div><img src="/ONISeeds/images/sndst-a.png"><p>' + data[i].seed + '</p></div></div>';
         var list = data[i].list.split(',').sort();
         var counts = {};
         for (const num of list) {
@@ -55,7 +55,7 @@ loadJSON(function (response) {
         });
         var values = '';
         for (var j = 0; j < list.length; j++) {
-            values += '<div class="entity-chip"><div class="entity-chip-img-container"><img class="entity-chip-img" src="/images/' + list[j] + '.png"></div>' +
+            values += '<div class="entity-chip"><div class="entity-chip-img-container"><img class="entity-chip-img" src="/ONISeeds/images/' + list[j] + '.png"></div>' +
                 '<p style="margin: 0px;">'+ dict[list[j]] + '</p><div class="entity-chip-count-container green"><h3 style="margin: 0px;">' + counts[list[j]] + '</h3></div></div>';
         }
         var right = '<div class="ant-col col-right">' + values + '</div>';
