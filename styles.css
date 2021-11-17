@@ -99,3 +99,7 @@ h1 {
 .entity-chip-count-container.red {
   background: #b71c1c;
 }
+
+.map {
+  background-image: url('/ONISeeds/images/map-bg.png'); margin: 20px; box-shadow: rgb(13, 13, 24) 0px 0px 10px 5px; width:640px;
+}

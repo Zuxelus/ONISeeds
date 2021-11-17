@@ -1,43 +1,3 @@
-function loadJSON(callback) {
-    var xobj = new XMLHttpRequest();
-    xobj.overrideMimeType('application/json');
-    xobj.open('GET', 'data.json', true);
-    xobj.onreadystatechange = function () {
-        if (xobj.readyState == 4 && xobj.status == '200') {
-            callback(xobj.responseText);
-        }
-    };
-    xobj.send(null);
-}
-
-var dict = {};
-dict['aetn'] = 'Anti Entropy Thermo-Nullifier';
-dict['big_volcano'] = 'Volcano';
-dict['chlorine_gas'] = 'Chlorine Gas Vent';
-dict['filthy_water'] = 'Polluted Water Vent';
-dict['hot_co2'] = 'Carbon Dioxide Vent';
-dict['hot_hydrogen'] = 'Hydrogen Vent';
-dict['hot_po2'] = 'Hot Polluted Oxygen Vent';
-dict['hot_steam'] = 'Steam Vent';
-dict['hot_water'] = 'Water Geyser';
-dict['liquid_co2'] = 'Carbon Dioxide Geyser';
-dict['liquid_sulfur'] = 'Sulfur Geyser';
-dict['methane'] = 'Natural Gas Geyser';
-dict['molten_aluminum'] = 'Aluminum Volcano';
-dict['molten_cobalt'] = 'Cobalt Volcano';
-dict['molten_copper'] = 'Copper Volcano';
-dict['molten_gold'] = 'Gold Volcano';
-dict['molten_iron'] = 'Iron Volcano';
-dict['oil_drip'] = 'Leaky Oil Fissure';
-dict['oil_reservoir'] = 'Oil Reservoir';
-dict['salt_water'] = 'Salt Water Geyser';
-dict['slimy_po2'] = 'Infectious Polluted Oxygen Vent';
-dict['slush_salt_water'] = 'Cool Salt Slush Geyser';
-dict['slush_water'] = 'Cool Slush Geyser';
-dict['small_volcano'] = 'Minor Volcano';
-dict['steam'] = 'Cool Steam Vent';
-dict['vacillator'] = 'Neural Vacillator';
-
 var filter = document.getElementById('filter');
 var filter_no = document.getElementById('filter_no');
 addOptions(filter);
@@ -81,7 +41,7 @@ loadJSON(function (response) {
             if (key == 'aetn' || key == 'vacillator'|| key == 'oil_reservoir') 
             values += addValue(key, value);
         var right = '<div class="ant-col col-right">' + values + '</div>';
-        cell.innerHTML = '<div class="ant-card"><div class="ant-card-body"><div class="ant-row-flex">' + left + right + '</div></div></div>';
+        cell.innerHTML = '<div class="ant-card" onclick="openMap(this.parentElement.parentElement.id)"><div class="ant-card-body"><div class="ant-row-flex">' + left + right + '</div></div></div>';
         list[data[i].seed] = counts;
     }
 });
@@ -89,6 +49,10 @@ loadJSON(function (response) {
 function addValue(key, value) {
     return '<div class="entity-chip"><div class="entity-chip-img-container"><img class="entity-chip-img" src="/ONISeeds/images/' + key + '.png"></div>' +
         '<p style="margin: 0px;">'+ dict[key] + '</p><div class="entity-chip-count-container green"><h3 style="margin: 0px;">' + value + '</h3></div></div>';
+}
+
+function openMap(seed) {
+    window.location.href='map.html?seed=' + seed;
 }
 
 function filterSet() {
