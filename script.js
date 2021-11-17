@@ -11,6 +11,7 @@ function loadJSON(callback) {
 }
 
 var dict = {};
+dict['aetn'] = 'Anti Entropy Thermo-Nullifier';
 dict['big_volcano'] = 'Volcano';
 dict['chlorine_gas'] = 'Chlorine Gas Vent';
 dict['filthy_water'] = 'Polluted Water Vent';
@@ -35,30 +36,37 @@ dict['slush_salt_water'] = 'Cool Salt Slush Geyser';
 dict['slush_water'] = 'Cool Slush Geyser';
 dict['small_volcano'] = 'Minor Volcano';
 dict['steam'] = 'Cool Steam Vent';
+dict['vacillator'] = 'Neural Vacillator';
+
+var list = {};
 
 loadJSON(function (response) {
     var data = JSON.parse(response);
-    //var data = JSON.parse('[{"asteroid": "terra","seed": "SNDST-A-16000-0",'+
-    //    '"list": "steam,methane,steam,methane,salt_water,hot_co2,hot_hydrogen,hot_water,oil_drip,slush_water,hot_steam,methane,hot_co2,slush_water,hot_water,hot_po2,big_volcano"}]');
+    //var data = JSON.parse('[{"asteroid":"terra","seed":"SNDST-A-16001-0","list":[{"id":"hq","x":128,"y":189},{"id":"aetn","x":84,"y":111},{"id":"aetn","x":129,"y":327},{"id":"aetn","x":220,"y":169},{"id":"steam","x":188,"y":156},{"id":"methane","x":145,"y":128},{"id":"steam","x":72,"y":91},{"id":"methane","x":119,"y":127},{"id":"salt_water","x":135,"y":66},{"id":"oil_reservoir","x":159,"y":43},{"id":"oil_reservoir","x":144,"y":40},{"id":"oil_reservoir","x":209,"y":52},{"id":"vacillator","x":160,"y":149},{"id":"vacillator","x":105,"y":230},{"id":"vacillator","x":203,"y":122},{"id":"vacillator","x":223,"y":197},{"id":"vacillator","x":45,"y":40},{"id":"hot_co2","x":108,"y":47},{"id":"hot_hydrogen","x":191,"y":213},{"id":"hot_water","x":209,"y":307},{"id":"oil_drip","x":229,"y":59},{"id":"slush_water","x":127,"y":259},{"id":"hot_steam","x":182,"y":198},{"id":"methane","x":222,"y":79},{"id":"hot_co2","x":156,"y":89},{"id":"slush_water","x":22,"y":163},{"id":"hot_water","x":124,"y":237},{"id":"hot_po2","x":154,"y":74},{"id":"big_volcano","x":201,"y":40}]}]');
     var t = document.getElementById('list');
     for (var i = 0; i < data.length; i++) {
         var row = t.insertRow();
         var cell = row.insertCell();
         var left = '<div class="ant-col col-left"><div><img src="/ONISeeds/images/sndst-a.png"><p>' + data[i].seed + '</p></div></div>';
-        var list = data[i].list.split(',').sort();
         var counts = {};
-        for (const num of list) {
-            counts[num] = counts[num] ? counts[num] + 1 : 1;
-        }
-        list = list.filter(function(item, pos) {
-            return list.indexOf(item) == pos;
-        });
+        for (const num of data[i].list)
+            if (num.id != 'hq')
+                counts[num.id] = counts[num.id] ? counts[num.id] + 1 : 1;
         var values = '';
-        for (var j = 0; j < list.length; j++) {
-            values += '<div class="entity-chip"><div class="entity-chip-img-container"><img class="entity-chip-img" src="/ONISeeds/images/' + list[j] + '.png"></div>' +
-                '<p style="margin: 0px;">'+ dict[list[j]] + '</p><div class="entity-chip-count-container green"><h3 style="margin: 0px;">' + counts[list[j]] + '</h3></div></div>';
-        }
+        for (const [key, value] of Object.entries(counts))
+            if (key != 'aetn' && key != 'vacillator'&& key != 'oil_reservoir') 
+            values += addValue(key, value);
+            values += '<div class="ant-divider"></div>';
+        for (const [key, value] of Object.entries(counts))
+            if (key == 'aetn' || key == 'vacillator'|| key == 'oil_reservoir') 
+            values += addValue(key, value);
         var right = '<div class="ant-col col-right">' + values + '</div>';
         cell.innerHTML = '<div class="ant-card"><div class="ant-card-body"><div class="ant-row-flex">' + left + right + '</div></div></div>';
+        list[data[i].seed] = counts;
     }
 });
+
+function addValue(key, value) {
+    return '<div class="entity-chip"><div class="entity-chip-img-container"><img class="entity-chip-img" src="/ONISeeds/images/' + key + '.png"></div>' +
+        '<p style="margin: 0px;">'+ dict[key] + '</p><div class="entity-chip-count-container green"><h3 style="margin: 0px;">' + value + '</h3></div></div>';
+}
