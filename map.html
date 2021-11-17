@@ -21,7 +21,7 @@
                         for (const num of data[i].list) {
                             map.innerHTML += '<image href="/ONISeeds/images/' + num.id +
                                 '.png" xlink:href="/ONISeeds/images/' + num.id + '.png" ' +
-                                'height="10" width="10" x="' + num.x + '" y="' + (384 - num.y) + '"></image>';
+                                'height="10" width="10" x="' + num.x + '" y="' + (384 - num.y) + '"><title>' + dict[num.id] + '</title></image>';
                         }
                     }
             });
