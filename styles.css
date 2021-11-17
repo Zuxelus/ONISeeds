@@ -5,8 +5,8 @@ body {
   color: #fff;
   background: url(/ONISeeds/images/bg.png);
 }
-h1 {
-  padding: 20px 0 0 20px;
+h1, h5 {
+  margin: 0;
 }
 #list tr {
   display: block;

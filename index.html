@@ -1,14 +1,22 @@
 <html>
+
 <head>
     <link rel="stylesheet" href="styles.css">
     <script type="text/javascript" src="main.js"></script>
     <script type="text/javascript" src="script.js" defer></script>
 </head>
+
 <body>
-    <h1>Oxygen Not Included Seeds</h1>
-    <div style="padding: 0 20px;"><select id="filter"></select><input type="number" id="filter_no" style="width: 100px;"></input></div>
-    <div style="padding: 0 20px;"><select id="filter2"></select><input type="number" id="filter_no2" style="width: 100px;"></input></div>
-    <div style="padding: 0 20px;"><select id="filter3"></select><input type="number" id="filter_no3" style="width: 100px;"></input><br/><button onclick="filterSet()">Filter</button></div>
+    <div style="padding: 20px 0 20px 20px;">
+        <h1>Oxygen Not Included Seeds 2021</h1>
+        <h5>(base game, build 484114)</h6>
+    </div>
+
+    <div style="padding: 0 20px;">
+        <div id="filters"></div>
+        <br /><button onclick="addFilter()">Add Filter</button><button onclick="filterSet()">Search</button>
+    </div>
     <table id="list"></table>
 </body>
+
 </html>
