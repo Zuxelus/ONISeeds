@@ -93,12 +93,20 @@ function addValue(key, value) {
 
 function filterSet() {
     for (const [key, value] of Object.entries(list)) {
-        var q = value[filter.value];
-        var isTrue = !q || q >= filter_no.value;
-        q = value[filter2.value];
-        isTrue = isTrue && (!q || q >= filter_no2.value);
-        q = value[filter3.value];
-        isTrue = isTrue && (!q || q >= filter_no3.value);
+        var q = 0;
+        var isTrue = true;
+        if (filter_no.value > 0) {
+            q = value[filter.value];
+            isTrue = isTrue && (q && q >= filter_no.value);
+        }
+        if (filter_no2.value > 0) {
+            q = value[filter2.value];
+            isTrue = isTrue && (q && q >= filter_no2.value);
+        }
+        if (filter_no3.value > 0) {
+            q = value[filter3.value];
+            isTrue = isTrue && (q && q >= filter_no3.value);
+        }
         if (isTrue) {
             document.getElementById(key).style.display = 'block';
         } else {
