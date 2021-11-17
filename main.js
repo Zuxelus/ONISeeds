@@ -20,6 +20,7 @@ dict['hot_hydrogen'] = 'Hydrogen Vent';
 dict['hot_po2'] = 'Hot Polluted Oxygen Vent';
 dict['hot_steam'] = 'Steam Vent';
 dict['hot_water'] = 'Water Geyser';
+dict['hq'] = 'Headquarter';
 dict['liquid_co2'] = 'Carbon Dioxide Geyser';
 dict['liquid_sulfur'] = 'Sulfur Geyser';
 dict['methane'] = 'Natural Gas Geyser';

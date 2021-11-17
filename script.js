@@ -26,6 +26,8 @@ loadJSON(function (response) {
     for (var i = 0; i < data.length; i++) {
         var row = t.insertRow();
         row.id = data[i].seed;
+        if (i > 20)
+            row.style.display = 'none';
         var cell = row.insertCell();
         var left = '<div class="ant-col col-left"><div><img src="/ONISeeds/images/sndst-a.png"><p>' + data[i].seed + '</p></div></div>';
         var counts = {};
@@ -56,9 +58,10 @@ function openMap(seed) {
 }
 
 function filterSet() {
-    for (const [key, value] of Object.entries(list)) {
+    var i = 0;
+    for (const [key, value] of Object.entries(list)) {        
         var q = 0;
-        var isTrue = true;
+        var isTrue = i < 21;
         if (filter_no.value > 0) {
             q = value[filter.value];
             isTrue = isTrue && (q && q >= filter_no.value);
@@ -73,6 +76,7 @@ function filterSet() {
         }
         if (isTrue) {
             document.getElementById(key).style.display = 'block';
+            i++;
         } else {
             document.getElementById(key).style.display = 'none';
         }
