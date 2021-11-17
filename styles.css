@@ -8,6 +8,9 @@ body {
 h1 {
   padding: 20px 0 0 20px;
 }
+#list tr {
+  display: block;
+}
 
 .ant-row-flex {
   display: -ms-flexbox;
