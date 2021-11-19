@@ -36,6 +36,13 @@ dict['vacillator'] = 'Neural Vacillator';
 var aster = {};
 aster['0'] = 'sndst-a';
 aster['1'] = 'ocan-a';
+aster['2'] = 's-frz';
+aster['3'] = 'lush-a';
+aster['4'] = 'frst-a';
+aster['5'] = 'volca';
+aster['6'] = 'bad-a';
+aster['7'] = 'htfst-a';
+aster['8'] = 'oasis-a';
 
 addFilter();
 
