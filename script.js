@@ -33,6 +33,10 @@ dict['small_volcano'] = 'Minor Volcano';
 dict['steam'] = 'Cool Steam Vent';
 dict['vacillator'] = 'Neural Vacillator';
 
+var aster = {};
+aster['0'] = 'sndst-a';
+aster['1'] = 'ocan-a';
+
 addFilter();
 
 function loadJSON(path, callback) {
@@ -66,7 +70,7 @@ function parseData(response) {
         if (i > 20)
             row.style.display = 'none';
         var cell = row.insertCell();
-        var left = '<div class="col col-left"><div><img src="/ONISeeds/images/sndst-a.png"><p>' + data[i].seed + '</p></div></div>';
+        var left = '<div class="col col-left"><div><img src="/ONISeeds/images/' + aster[data.asteroid] + '.png"><p>' + data[i].seed + '</p></div></div>';
         var counts = {};
         for (const num of data[i].list)
             if (num.id != 'hq')
