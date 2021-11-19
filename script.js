@@ -4,8 +4,6 @@ var f = 0;
 var t = document.getElementById('list');
 var map = document.getElementById("map");
 
-addFilter();
-
 var dict = {};
 dict['aetn'] = 'Anti Entropy Thermo-Nullifier';
 dict['big_volcano'] = 'Volcano';
@@ -35,6 +33,7 @@ dict['small_volcano'] = 'Minor Volcano';
 dict['steam'] = 'Cool Steam Vent';
 dict['vacillator'] = 'Neural Vacillator';
 
+addFilter();
 
 function loadJSON(path, callback) {
     var xobj = new XMLHttpRequest();
@@ -55,7 +54,7 @@ function loadList() {
     var asteroid = document.getElementById("asteroid").value;
     if (version == 0)
         return;
-    loadJSON('/data/b_' + version + '/b_' + version + '_' + asteroid + '.json', parseData);
+    loadJSON('/ONISeeds/data/b_' + version + '/b_' + version + '_' + asteroid + '.json', parseData);
 }
 
 function parseData(response) {
