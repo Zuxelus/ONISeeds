@@ -54,6 +54,7 @@ function loadJSON(path, callback) {
 
 function loadList() {
     t.innerHTML = '';
+    list = {};
     var version = document.getElementById("version").value;
     var asteroid = document.getElementById("asteroid").value;
     if (version == 0)
