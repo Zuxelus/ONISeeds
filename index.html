@@ -2,21 +2,41 @@
 
 <head>
     <link rel="stylesheet" href="styles.css">
-    <script type="text/javascript" src="main.js"></script>
     <script type="text/javascript" src="script.js" defer></script>
 </head>
 
 <body>
     <div style="padding: 20px 0 20px 20px;">
         <h1>Oxygen Not Included Seeds 2021</h1>
-        <h5>(base game, build 484114)</h6>
     </div>
 
-    <div style="padding: 0 20px;">
+    <div class="card" style="padding: 0 20px;">
+        <select id="version">
+            <option value="0"></option>
+            <option value="486708">486708 (base game)</option>
+            <option value="484114">484114 (base game)</option>
+        </select>
+        <select id="asteroid">
+            <option value="0">Terra</option>
+            <option value="1">Oceania</option>
+            <option value="2">Rime</option>
+            <option value="3">Verdante</option>
+            <option value="4">Arboria</option>
+            <option value="5">Volcanea</option>
+            <option value="6">The Badlands</option>
+            <option value="7">Aridio</option>
+            <option value="8">Oassisse</option>
+        </select>
+        <button onclick="loadList()">Load List</button>
+    </div>
+
+    <div class="card" style="padding: 0 20px;">
         <div id="filters"></div>
         <br /><button onclick="addFilter()">Add Filter</button><button onclick="filterSet()">Search</button>
     </div>
     <table id="list"></table>
+    <div class="map" style="display: none;" onclick="this.style.display = 'none'"><svg id="map" viewBox="0 0 256 384" width="100%" xmlns="http://www.w3.org/2000/svg"
+        style="margin-bottom: -6px;"></svg></div>
     <footer>Created by Zuxelus (Zuxelus#2669 is my Discord for any questions)</footer>
 </body>
 

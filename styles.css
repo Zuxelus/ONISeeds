@@ -22,26 +22,26 @@ footer {
   background-color: #555;
 }
 
-.ant-row-flex {
+.row-flex {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-flow: row wrap;
       flex-flow: row wrap;
 }
-.ant-card {
+.card {
   background-color: rgba(50, 50, 50, 0.3);
   border-radius: 4px;
   margin: 8px;
   box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);
   cursor: pointer;
 }
-.ant-card:hover {
+.card:hover {
   background-color: rgba(80, 80, 80, 0.3);
 }
-.ant-card .ant-card-body {
+.card .card-body {
   padding: 16px;
 }
-.ant-card .ant-card-body .col-left {
+.card .card-body .col-left {
   justify-content: center;
   display: flex;
   flex-flow: column wrap;
@@ -49,13 +49,13 @@ footer {
   flex: 2 1;
   min-width: 170px;
 }
-.ant-card .ant-card-body .col-left div {
+.card .card-body .col-left div {
   flex-grow: 1; display: flex; flex-flow: column wrap; justify-content: center; align-items: center;
 }
-.ant-card .ant-card-body .col-left div img {
+.card .card-body .col-left div img {
   max-width: 150px;
 }
-.ant-card .ant-card-body .col-right {
+.card .card-body .col-right {
   justify-content: center;
   display: flex;
   flex-flow: row wrap;
@@ -64,7 +64,7 @@ footer {
   margin-top: auto;
   margin-bottom: auto;
 }
-.ant-divider {
+.divider {
   background: rgba(255, 255, 255, 0.25); margin: 0.5em 0px; min-width: 85%; padding: 1px;
 }
 
@@ -111,5 +111,11 @@ footer {
 }
 
 .map {
-  background-image: url('/ONISeeds/images/map-bg.png'); margin: 20px; box-shadow: rgb(13, 13, 24) 0px 0px 10px 5px; width:560px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width:560px;
+  margin: 20px;
+  background-image: url('/ONISeeds/images/map-bg.png');
+  box-shadow: rgb(13, 13, 24) 0px 0px 10px 5px; 
 }
