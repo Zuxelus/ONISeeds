@@ -70,7 +70,7 @@ function parseData(response) {
         if (i > 20)
             row.style.display = 'none';
         var cell = row.insertCell();
-        var left = '<div class="col col-left"><div><img src="/ONISeeds/images/' + aster[data.asteroid] + '.png"><p>' + data[i].seed + '</p></div></div>';
+        var left = '<div class="col col-left"><div><img src="/ONISeeds/images/' + aster[data[i].asteroid] + '.png"><p>' + data[i].seed + '</p></div></div>';
         var counts = {};
         for (const num of data[i].list)
             if (num.id != 'hq')
